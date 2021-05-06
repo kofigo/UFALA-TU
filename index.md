@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+# Land and Natural Resources Degradation 
 
-You can use the [editor on GitHub](https://github.com/kofigo/UFALA-TU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This study analyzed the severity and cost of land degradation in the ASALs focusing on three Areas of Interest (AOIs), Garissa, Turkana, and Wajir Counties. It identifies suitable restorationoptions and makes recommendations on how to facilitate their large-scale uptake. Spatial maps were used to present the results, an approach to help the government and development partners to design and implement investment projects.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-provides relevant background information about the institutional, environmental and economic environment of the AOIs.
 
-### Markdown
+-discusses the cost and drivers of land degradation. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-describes some lessons learnt and past experiences with resource conservation and sustainable land management before 
 
-```markdown
-Syntax highlighted code block
+-Findings of the spatial analysis on the extent of land degradation in the AOIs are presented in 
 
-# Header 1
-## Header 2
-### Header 3
+-concludes and proposes some policy recommendations
 
-- Bulleted
-- List
+# Mapping Forest Fires in Mount Kenya
 
-1. Numbered
-2. List
+The highest mountain in Kenya - and the second highest on the African continent - Mount Kenya is enclosed within the Mount Kenya National Park which covers an area of 715 km2 in the central highlands of the country. The National Park and Forest Reserve were designated as a UNESCO World Heritage Site in 1997 and are a key driver of both local and international tourism to Kenya.
 
-**Bold** and _Italic_ and `Code` text
+# Monitoring Chlorophyll in Lake Elmenteita, Kenya
+Around 120km North of Nairobi, nestled on the floor of Kenya’s Great Rift Valley lies Lake Elmenteita. Named from the Maasai word ‘ol muteita’ meaning place of dust, the alkaline lake is a lifeline for thriving populations of birds and wildlife, including Rothschilds giraffes, pelicans, colobus monkeys and flamingos. Over 450 species of bird call the lake home, and the ecological significance of the area was recognised in 2005, when Elmenteita was recognised as a Wetland of International Importance.
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kofigo/UFALA-TU/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- 
